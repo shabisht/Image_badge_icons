@@ -4,4 +4,4 @@ this repo contains badges  for generating different icons
 * Credit goes to [Shileds.io](https://shields.io/)
 * To generate a badge icon/Mast head replace content inside <> as per requirements and then download the .svg file.
 
-* <p> https://img.shields.io/badge/<your label>-<value>-<background color>.svg?&style=for-the-badge&logo=<icon here> </p>
+<br><p> https://img.shields.io/badge/<your label>-<value>-<background color>.svg?&style=for-the-badge&logo=<icon here> </p>
